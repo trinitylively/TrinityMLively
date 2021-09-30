@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Child Abuse and Neglect - Oklahoma](/pdf/Child Abuse Report.pdf)
+[Child Abuse and Neglect - Oklahoma]
 <img src="images/OK Child Abuse Image.PNG"/>
 
 ---
