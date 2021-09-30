@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Child Abuse and Neglect - Oklahoma](/sample_page)
+<img src="images/OK Child Abuse Image.PNG"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
